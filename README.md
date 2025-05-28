@@ -25,3 +25,5 @@ Ao adicionar uma nova tarefa, sera salvo arquivo tarefas.pkl por padrão(possive
 --->
 <img width="282" alt="image" src="https://github.com/user-attachments/assets/fc789123-407d-404e-9ef8-ac1b599c113f" />
 
+## O que aprendi:
+Aprendi a ter mais profissionalismo com meu projeto. Gostei de entregar sob limitação, me deu um impulso e direcionamento para a área de programação.
